@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<h1 align="center">Hey, I'm Anastasia</h1>
+===
+##My tech stack:
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 <!--
 **yonamin/yonamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
