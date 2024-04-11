@@ -8,6 +8,7 @@ I also have an expirience with:
 - Saas
 - Jest
 - Webpack
+
 Working with WSL.
 
 ## About me:
