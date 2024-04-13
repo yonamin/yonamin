@@ -19,7 +19,7 @@ Working with WSL.
 - Looking for a full-time job or internship
   
 Actually, I like learning so I'm looking for a team where I could continue improve my skills.
-In the future I would like to learn more about gamedev and mobile development, also I'm planning to became a fullstack-developer.
+In the future I would like to learn more about gamedev and mobile development, also I'm planning to become a fullstack-developer.
 ### Contacts:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/boombip)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anastasiapak32@gmail.com)
